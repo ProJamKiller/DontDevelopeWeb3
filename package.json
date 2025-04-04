@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@thirdweb-dev/contracts": "^3.15.0",
     "thirdweb": "^5.93.14"
   }
 }
